@@ -22,6 +22,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "ss0296-spec"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/ss0296-spec/-PalindromeCheckerApp.git",
+    "accountId": "39bab932-3c58-406b-a4aa-7d113094d966"
+  }
+}]]></component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
